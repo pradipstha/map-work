@@ -14,7 +14,10 @@ This repository serves as a comprehensive portfolio of maps, meticulously crafte
 ![risk map](https://github.com/pradipstha/map-work/assets/7926311/b107ad79-544b-4e84-b198-62154477e36c)
 ![mekong](https://github.com/pradipstha/map-work/assets/7926311/5b950c8f-2bfe-482f-a60a-0d568af230b5)
 ![short route](https://github.com/pradipstha/map-work/assets/7926311/08a2f593-6f14-4296-9643-99845e1d1a23)
+![ktm relief](https://github.com/pradipstha/map-work/assets/7926311/72da5393-730c-4e4b-b9eb-02e5b379f4da)
+
 ![19_moll](https://user-images.githubusercontent.com/7926311/222521434-2668c81d-d240-4b6b-b721-084d749111e2.png)
 ![NDVI_Animation](https://user-images.githubusercontent.com/7926311/230428016-01d30a1e-6082-436d-928a-9e5bc8ea18d6.gif)
 ![MODIS NDVI](https://user-images.githubusercontent.com/7926311/225773071-73958ceb-362d-475f-9a84-71889e7a530b.gif)
 ![COVID_map](https://user-images.githubusercontent.com/7926311/222875664-0d44cc63-e15e-448c-80ed-2ff8844f3bf3.png)
+
